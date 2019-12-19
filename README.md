@@ -9,5 +9,6 @@
   ## Create an virtual machine in selected Cloud
 
   #### [Amazon EC2 Instance DEMO](EC2DEMO.md)
+---
 
   <center><p>&copy; 2019 Chmurowisko Sp. z o.o.<p></center>
